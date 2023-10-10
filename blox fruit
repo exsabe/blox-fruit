@@ -1,3 +1,1 @@
-while true do
 loadstring(game:HttpGet(&quot;https://raw.githubusercontent.com/xDepressionx/FreeScript/main/BloxFruit.lua&quot;))()
-end
